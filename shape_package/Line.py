@@ -1,6 +1,4 @@
-# Módulo Line - Representa una línea en un plano cartesiano
-
-from .point_module import Point
+from .Point import Point
 
 class Line:
     """Clase que representa una línea en un plano cartesiano"""
