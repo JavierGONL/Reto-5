@@ -3,12 +3,19 @@
 ## Estructura del Paquete
 
 ```
-shape_package/
-├── __init__.py                 # Archivo de inicialización del paquete
-├── shape_module.py             # Clase base Shape
-├── point_module.py             # Clase Point
-├── line_module.py              # Clase Line
-├── rectangle_module.py         # Clase Rectangle
-└── triangle_module.py          # Clases de triángulos
+paquete_shape_5_1/
+├── shape.py             # Clase base Shape
 ```
+
+```
+paquete_shape_5_2/
+├── __init__.py          
+├── shape.py             # Clase base Shape
+├── point.py             # Clase Point
+├── line.py              # Clase Line
+├── rectangle.py         # Clase Rectangle
+└── triangle.py          # Clases de triángulos
+```
+
+
 
