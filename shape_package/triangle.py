@@ -1,7 +1,5 @@
-# Módulo Triangle - Implementa las clases de triángulos que heredan de Shape
-
 from math import acos, degrees
-from .shape_module import Shape
+from .shape import Shape
 
 class Triangle(Shape): 
     """Clase base para triángulos"""
