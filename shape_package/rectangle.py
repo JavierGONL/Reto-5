@@ -1,8 +1,7 @@
-# Módulo Rectangle - Implementa la clase Rectangle que hereda de Shape
 
-from .shape_module import Shape
-from .point_module import Point
-from .line_module import Line
+from .shape import Shape
+from .point import Point
+from .line import Line
 
 class Rectangle(Shape):
     """Clase que representa un rectángulo"""
