@@ -1,4 +1,4 @@
-from .Point import Point
+from .point import Point
 
 class Line:
     """Clase que representa una línea en un plano cartesiano"""
