@@ -1,5 +1,3 @@
-# Módulo Point - Representa un punto en un plano cartesiano
-
 class Point:
     """Clase que representa un punto en un plano cartesiano"""
     

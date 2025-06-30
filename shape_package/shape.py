@@ -1,5 +1,3 @@
-# Módulo Shape - Clase base para todas las figuras geométricas
-
 class Shape:
     """Clase base para todas las figuras geométricas"""
     

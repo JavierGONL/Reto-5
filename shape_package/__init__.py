@@ -1,5 +1,5 @@
-from .shape_module import Shape
-from .point_module import Point
-from .line_module import Line
-from .rectangle_module import Rectangle
-from .triangle_module import Triangle, Isosceles, Equilateral, Scalene, TriRectangle
+from .shape import Shape
+from .point import Point
+from .line import Line
+from .rectangle import Rectangle
+from .triangle import Triangle, Isosceles, Equilateral, Scalene, TriRectangle

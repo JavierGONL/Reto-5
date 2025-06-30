@@ -1,8 +1,4 @@
-# Paquete Shape - Reto_5
-
-## Descripción
-
-Este paquete contiene todas las clases que componen shape del reto 4
+# Reto_5
 
 ## Estructura del Paquete
 
